@@ -2,8 +2,8 @@
 //  main.cpp
 //  NEWsortingNumbers(afterUPDATED)
 //
-//  Created by Jasmine Algama on 8/15/24.
-//
+//  Created by JA on 8/15/24.
+// The following program sorts 10 numbers from greatest to least and outputs the numbers on a textfile.
 
 #include <iostream>
 #include <fstream>
