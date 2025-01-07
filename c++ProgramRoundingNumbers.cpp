@@ -1,9 +1,8 @@
 //
 //  main.cpp
 //  ThathaProject
-//
-//  Created by Jasmine Algama on 7/12/24.
-//
+//Created by JA on 7/12/24.
+//The following program rounds numbers to significant digits.
 
 #include <iostream>
 #include <fstream>
