@@ -1,3 +1,7 @@
+//The following program was created by JA.
+//The following program has 6 variables, velocity 1 (V1), velocity 2 (V2), inital acceleration (A1), final accleration (A2), time (T), and displacement (S).
+//The program will generate different values for each of the variables, but follow the constraints: V1 < V2 and 3 < A0 < 15.
+//The program will then output the values in a textfile, and then change the values of the variables every 5 seconds.
 #include <iostream>
 #include <fstream>
 #include <random>
